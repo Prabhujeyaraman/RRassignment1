@@ -3,6 +3,5 @@ account: rpubs
 server: rpubs.com
 bundleId:
         https://api.rpubs.com/api/v1/document/142114/fbe8161a44bd47a7880e1aa719083cc7
-url:
-        http://rpubs.com/publish/claim/142114/13afb93c9be04b96b180d947cdd69ef8
-when: 1452385135.15127
+url: http://rpubs.com/Prabhu/142114
+when: 1452441727.42587
