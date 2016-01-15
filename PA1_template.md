@@ -2,7 +2,7 @@
 title: "Project Assignment 1 - Reproducible Research"
 author: "Prabhu"
 date: "January 9, 2016"
-output: html_document
+output: md_document
 ---
 
 
@@ -479,4 +479,6 @@ head(data)
 
 
 # Completed  
+
+
 
